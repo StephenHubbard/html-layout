@@ -38,6 +38,7 @@ body {
     width: 100%;
     border: 5px dotted black;
     padding: 30px;
+    margin-top: 50px;
     box-sizing: border-box;
 }
 
